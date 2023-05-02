@@ -1,3 +1,11 @@
+'''
+Date: Mar 2, 2023
+Author :  Name: SejinYoon
+          uID: u1311019
+Source code File name: Assignment6.py
+'''
+
+
 import string
 
 alphabet = list(string.ascii_lowercase)
